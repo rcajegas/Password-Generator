@@ -7,6 +7,8 @@ Sharing a lightweight security tool
 Features
 Adjustable password length (6–64 characters)
 
+Use this link: https://rcajegas.github.io/Password-Generator/
+
 <img width="812" height="476" alt="image" src="https://github.com/user-attachments/assets/52b3970e-a660-4265-b9fe-13f628380d88" />
 
 
