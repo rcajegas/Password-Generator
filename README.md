@@ -1,4 +1,4 @@
- assword Generator
+Password Generator
 
 A simple, clean, browser-based password generator built with HTML, CSS, and JavaScript.
 No frameworks, no tracking, no backend — just open and generate secure passwords.
